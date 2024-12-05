@@ -1,3 +1,3 @@
-# A2A-Task-Python
+# Python-Movie-Sales-App
 
-https://www.loom.com/share/52b033d25e8043508f829fc5e1caf262?sid=920fbfc1-3746-4b75-af13-a72f4d251433
+This is a simple stand alone application that prompts the user for a calendar date within a specified date range (11/08/2024 - 11/10/2024) and then interacts with the MySQL database to find which movie theater generated the most sales for that day.
